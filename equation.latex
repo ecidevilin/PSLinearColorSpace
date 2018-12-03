@@ -1,0 +1,1 @@
+dst_g = (\underbrace{ a * \overbrace{src_g^{2.2}}^{linear} + (1-a) * \overbrace{dst_g^{2.2}}^{linear}}_{\text{linear}})^{\frac{1}{2.2}}
