@@ -10,3 +10,4 @@ Change color space to linear.
 
 ## linearBlend.csf
 Only affect the blend equation.
+![](equation.png)
