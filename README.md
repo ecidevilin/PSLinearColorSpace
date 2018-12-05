@@ -12,3 +12,8 @@ Change color space to linear.
 Only affect the blend equation.
 
 ![](linearblend.png)
+
+
+## psdLinearBlendCorrection.py
+Correct color and alpha of the art layers to approximate the visual effect of gamma blend.
+You should review the edited psd file in the linear blend mode.
