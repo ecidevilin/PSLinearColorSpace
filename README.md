@@ -17,3 +17,5 @@ Only affect the blend equation.
 ## psdLinearBlendCorrection.py
 Correct color and alpha of the art layers to approximate the visual effect of gamma blending.
 You should review the edited psd file in the linear-blending mode.
+
+TODO: opacity of art layers
